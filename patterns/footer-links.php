@@ -17,8 +17,5 @@
 echo ' ' . date_i18n( _x( 'Y', 'copyright date format', 'yubaspace' ) ); ?></p><!-- /wp:paragraph -->
 <!-- wp:site-title {"level":0, "fontSize":"extra-small"} /-->
 <?php echo yubaspace_privacy(); ?>
-<!-- wp:social-links {"className":"is-style-logos-only"} -->
-<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://wordpress.org","service":"wordpress"} /--></ul>
-<!-- /wp:social-links -->
 </div><!-- /wp:group -->
 </div><!-- /wp:group -->
