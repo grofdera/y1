@@ -15,8 +15,8 @@ get_header();
 							<h1 class="has-text-align-center has-text-color wp-block-heading" style="color:#121212">Hi-tech Workspace <br>for freelancers</h1>
 							<p class="has-text-align-center has-text-color" style="color:#121212;font-size:17px">YubaSpace by Lokbidhi is a hi-tech workspace and virtual office service provider in Janakpur dham, Nepal.</p>
 							<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-1">
-								<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="#">BOOK NOW</a></div>
-								<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="#">Join Events</a></div>
+								<div class="wp-block-button is-style-primary"><a class="wp-block-button__link wp-element-button" href="/l/booking">BOOK NOW</a></div>
+								<div class="wp-block-button is-style-secondary"><a class="wp-block-button__link wp-element-button" href="/l/events">Join Events</a></div>
 							</div>
 							<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
 							<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -175,7 +175,7 @@ get_header();
 							<h2 class="has-text-align-center has-nv-text-dark-bg-color has-text-color wp-block-heading">Let’s work together with us <br>in a colaborative environment</h2>
 							<p class="has-text-align-center has-medium-font-size">We organize different events and meet-ups in daily/ Weekly basis. We are connected with 600+ freelancers from Janakpur. Meet Like-minded people and form your own team to start co-working together.</p>
 							<div class="wp-block-buttons aligncenter is-content-justification-center is-layout-flex wp-container-29">
-								<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="#">LEARN MORE</a></div>
+								<div class="wp-block-button is-style-primary"><a class="wp-block-button__link" href="/l/about">LEARN MORE</a></div>
 							</div>
 							<div style="height:140px" aria-hidden="true" class="wp-block-spacer"></div>
 						</div>

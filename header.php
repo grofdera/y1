@@ -56,8 +56,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		data-item-id="logo">
 	
 <div class="site-logo">
-	<a class="brand" href="https://course.test/" title="Cyberpur Docs"
-			aria-label="Cyberpur Docs"><div class="nv-title-tagline-wrap"><h1 class="site-title">Cyberpur Docs</h1><small></small></div></a></div>
+	<a class="brand" href="/" title="<?php echo get_bloginfo('name');?>"><div class="nv-title-tagline-wrap"><h1 class="site-title"><?php echo get_bloginfo('name');?></h1><small></small></div></a></div>
 
 	</div>
 
@@ -68,7 +67,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="https://course.test/about/">About</a></li><li class="page_item page-item-2"><a href="https://course.test/sample-page/">Sample Page</a></li></ul>	</div>
+		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/l/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
 </div>
 
 	</div>
@@ -146,7 +145,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="https://course.test/about/">About</a></li><li class="page_item page-item-2"><a href="https://course.test/sample-page/">Sample Page</a></li></ul>	</div>
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/l/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
 </div>
 
 	</div>
