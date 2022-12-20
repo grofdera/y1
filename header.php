@@ -67,7 +67,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/l/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
+		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
 </div>
 
 	</div>
@@ -145,7 +145,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu">
 
-		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/l/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul"><li class="page_item page-item-6"><a href="/space">Spaces</a></li><li class="page_item page-item-2"><a href="/account">Account</a></li></ul>	</div>
 </div>
 
 	</div>
